@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Stem Cells"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ]
+  ],
+  "legacy_uid": "d6ea1955-556a-e5e0-4e8d-adb5baf5ec9c",
+  "instructors": {
+    "content": [
+      "109e34bf-5f10-4161-38c7-f46a501151f7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c61c6350-dc52-14c3-b808-205adc1e8e94",
+    "website": "7-344-the-fountain-of-life-from-dolly-to-customized-embryonic-stem-cells-fall-2007"
+  },
+  "course_title": "The Fountain of Life: From Dolly to Customized Embryonic Stem Cells",
+  "hide_download": true,
+  "course_description": "During development, the genetic content of each cell remains, with a few exceptions, identical to that of the zygote. Most differentiated cells therefore retain all of the genetic information necessary to generate an entire organism. It was through pioneering technology of somatic cell nuclear transfer (SCNT) that this concept was experimentally proven. Only 10 years ago the sheep Dolly was the first mammal to be cloned from an adult organism, demonstrating that the differentiated state of a mammalian cell can be fully reversible to a pluripotent embryonic state. A key conclusion from these experiments was that the difference between pluripotent cells such as embryonic stem (ES) cells and unipotent differentiated cells is solely a consequence of reversible changes. These changes, which have proved to involve reversible alterations to both DNA and to proteins that bind DNA, are known as epigenetic, to distinguish them from genetic alterations to DNA sequence. In this course we will explore such epigenetic changes and study different approaches that can return a differentiated cell to an embryonic state in a process referred to as epigenetic reprogramming, which will ultimately allow generation of patient-specific stem cells and application to regenerative therapy.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.344",
+  "course_image_thumbnail": {
+    "content": "9b4d495d-8190-1f47-d16b-470b7e383570",
+    "website": "7-344-the-fountain-of-life-from-dolly-to-customized-embryonic-stem-cells-fall-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "4bf5bd49-86f2-45b7-816e-68da0b09b06c",
+  "site_short_id": "7.344-fall-2007",
+  "site_url_path": "courses/7-344-the-fountain-of-life-from-dolly-to-customized-embryonic-stem-cells-fall-2007",
+  "title": "Course Metadata"
+}
